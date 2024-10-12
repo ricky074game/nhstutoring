@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "547997679854",
+    "project_id": "nhs-tutoring-90859",
+    "storage_bucket": "nhs-tutoring-90859.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547997679854:android:d55b2a26f0a6b00a5db3ff",
+        "android_client_info": {
+          "package_name": "com.nhs.tutoring"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKzIUdcTcCe7PpB2kW_pKbOUAt5tLNHPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
